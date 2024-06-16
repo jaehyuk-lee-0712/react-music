@@ -1,10 +1,15 @@
 :root {
     --fontJ: "theJamsil";
     --fontE: "eduAll";
+    --fontY: "eulyoo1945";
+    --fontP: "pyeongChang";
+    --fontN: "prettyNight";
+    --fontS: "SeoulHangang";
 
     --mainBg: #F6F8F9;
     --pointColor: #7D57FF;
     --pointBg: #ededff;
+    --new-main-color : #2B2D3C;
 
     --black: #000;
     --black100: #111;
@@ -21,6 +26,10 @@
     --white300: #dfdfdf;
     --white400: #cfcfcf;
     --white500: #c0c0c0;
+
+    --fontColor :#6570c7;
+    --bigFontColor: #ffcc81;
+    --listColor : #3c88fd;
 
     // 폰트 셋팅
     font-family: var(--fontE);

@@ -93,3 +93,143 @@
         url("https://cdn.jsdelivr.net/gh/websfont/eduAll/eduAll-Bold.ttf") format("truetype");
     font-display: swap;
 }
+
+@font-face {
+    font-family: "eulyoo1945";
+    font-weight: 400;
+    font-style: normal;
+    src: url("https://cdn.jsdelivr.net/gh/websfont/eulyoo1945/eulyoo1945-Regular.eot");
+    src: url("https://cdn.jsdelivr.net/gh/websfont/eulyoo1945/eulyoo1945-Regular.eot?#iefix") format("embedded-opentype"),
+        url("https://cdn.jsdelivr.net/gh/websfont/eulyoo1945/eulyoo1945-Regular.woff2") format("woff2"),
+        url("https://cdn.jsdelivr.net/gh/websfont/eulyoo1945/eulyoo1945-Regular.woff") format("woff"),
+        url("https://cdn.jsdelivr.net/gh/websfont/eulyoo1945/eulyoo1945-Regular.ttf") format("truetype");
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "eulyoo1945";
+    font-weight: 600;
+    font-style: normal;
+    src: url("https://cdn.jsdelivr.net/gh/websfont/eulyoo1945/eulyoo1945-SemiBold.eot");
+    src: url("https://cdn.jsdelivr.net/gh/websfont/eulyoo1945/eulyoo1945-SemiBold.eot?#iefix") format("embedded-opentype"),
+        url("https://cdn.jsdelivr.net/gh/websfont/eulyoo1945/eulyoo1945-SemiBold.woff2") format("woff2"),
+        url("https://cdn.jsdelivr.net/gh/websfont/eulyoo1945/eulyoo1945-SemiBold.woff") format("woff"),
+        url("https://cdn.jsdelivr.net/gh/websfont/eulyoo1945/eulyoo1945-SemiBold.ttf") format("truetype");
+    font-display: swap;
+}
+
+.eulyoo1945 {
+    font-family: "eulyoo1945";
+}
+
+.eulyoo1945400 {
+    font-family: "eulyoo1945";
+    font-weight: 400;
+}
+
+.eulyoo1945600 {
+    font-family: "eulyoo1945";
+    font-weight: 600;
+}
+
+@font-face {
+    font-family: "pyeongChang";
+    font-weight: 400;
+    font-style: normal;
+    src: url("https://cdn.jsdelivr.net/gh/websfont/pyeongChang/pyeongChang-Regular.eot");
+    src: url("https://cdn.jsdelivr.net/gh/websfont/pyeongChang/pyeongChang-Regular.eot?#iefix") format("embedded-opentype"),
+        url("https://cdn.jsdelivr.net/gh/websfont/pyeongChang/pyeongChang-Regular.woff2") format("woff2"),
+        url("https://cdn.jsdelivr.net/gh/websfont/pyeongChang/pyeongChang-Regular.woff") format("woff"),
+        url("https://cdn.jsdelivr.net/gh/websfont/pyeongChang/pyeongChang-Regular.ttf") format("truetype");
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "pyeongChang";
+    font-weight: 700;
+    font-style: normal;
+    src: url("https://cdn.jsdelivr.net/gh/websfont/pyeongChang/pyeongChang-Bold.eot");
+    src: url("https://cdn.jsdelivr.net/gh/websfont/pyeongChang/pyeongChang-Bold.eot?#iefix") format("embedded-opentype"),
+        url("https://cdn.jsdelivr.net/gh/websfont/pyeongChang/pyeongChang-Bold.woff2") format("woff2"),
+        url("https://cdn.jsdelivr.net/gh/websfont/pyeongChang/pyeongChang-Bold.woff") format("woff"),
+        url("https://cdn.jsdelivr.net/gh/websfont/pyeongChang/pyeongChang-Bold.ttf") format("truetype");
+    font-display: swap;
+}
+
+.pyeongChang {
+    font-family: "pyeongChang";
+}
+
+.pyeongChang400 {
+    font-family: "pyeongChang";
+    font-weight: 400;
+}
+
+.pyeongChang700 {
+    font-family: "pyeongChang";
+    font-weight: 700;
+}
+
+@font-face {
+    font-family: "prettyNight";
+    font-weight: normal;
+    font-style: normal;
+    src: url("https://cdn.jsdelivr.net/gh/websfont/prettyNight/prettyNight.eot");
+    src: url("https://cdn.jsdelivr.net/gh/websfont/prettyNight/prettyNight.eot?#iefix") format("embedded-opentype"),
+        url("https://cdn.jsdelivr.net/gh/websfont/prettyNight/prettyNight.woff2") format("woff2"),
+        url("https://cdn.jsdelivr.net/gh/websfont/prettyNight/prettyNight.woff") format("woff"),
+        url("https://cdn.jsdelivr.net/gh/websfont/prettyNight/prettyNight.ttf") format("truetype");
+    font-display: swap;
+}
+
+.prettyNight {
+    font-family: "prettyNight";
+}
+
+@font-face {
+    font-family: 'SeoulHangang';
+    font-weight: 300;
+    font-style: normal;
+    src: url('https://cdn.jsdelivr.net/gh/webfontworld/seoulhangang/SeoulHangangLight.eot');
+    src: url('https://cdn.jsdelivr.net/gh/webfontworld/seoulhangang/SeoulHangangLight.eot?#iefix') format('embedded-opentype'),
+        url('https://cdn.jsdelivr.net/gh/webfontworld/seoulhangang/SeoulHangangLight.woff2') format('woff2'),
+        url('https://cdn.jsdelivr.net/gh/webfontworld/seoulhangang/SeoulHangangLight.woff') format('woff'),
+        url('https://cdn.jsdelivr.net/gh/webfontworld/seoulhangang/SeoulHangangLight.ttf') format("truetype");
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'SeoulHangang';
+    font-weight: 500;
+    font-style: normal;
+    src: url('https://cdn.jsdelivr.net/gh/webfontworld/seoulhangang/SeoulHangangMedium.eot');
+    src: url('https://cdn.jsdelivr.net/gh/webfontworld/seoulhangang/SeoulHangangMedium.eot?#iefix') format('embedded-opentype'),
+        url('https://cdn.jsdelivr.net/gh/webfontworld/seoulhangang/SeoulHangangMedium.woff2') format('woff2'),
+        url('https://cdn.jsdelivr.net/gh/webfontworld/seoulhangang/SeoulHangangMedium.woff') format('woff'),
+        url('https://cdn.jsdelivr.net/gh/webfontworld/seoulhangang/SeoulHangangMedium.ttf') format("truetype");
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'SeoulHangang';
+    font-weight: 700;
+    font-style: normal;
+    src: url('https://cdn.jsdelivr.net/gh/webfontworld/seoulhangang/SeoulHangangBold.eot');
+    src: url('https://cdn.jsdelivr.net/gh/webfontworld/seoulhangang/SeoulHangangBold.eot?#iefix') format('embedded-opentype'),
+        url('https://cdn.jsdelivr.net/gh/webfontworld/seoulhangang/SeoulHangangBold.woff2') format('woff2'),
+        url('https://cdn.jsdelivr.net/gh/webfontworld/seoulhangang/SeoulHangangBold.woff') format('woff'),
+        url('https://cdn.jsdelivr.net/gh/webfontworld/seoulhangang/SeoulHangangBold.ttf') format("truetype");
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'SeoulHangang';
+    font-weight: 800;
+    font-style: normal;
+    src: url('https://cdn.jsdelivr.net/gh/webfontworld/seoulhangang/SeoulHangangExtraBold.eot');
+    src: url('https://cdn.jsdelivr.net/gh/webfontworld/seoulhangang/SeoulHangangExtraBold.eot?#iefix') format('embedded-opentype'),
+        url('https://cdn.jsdelivr.net/gh/webfontworld/seoulhangang/SeoulHangangExtraBold.woff2') format('woff2'),
+        url('https://cdn.jsdelivr.net/gh/webfontworld/seoulhangang/SeoulHangangExtraBold.woff') format('woff'),
+        url('https://cdn.jsdelivr.net/gh/webfontworld/seoulhangang/SeoulHangangExtraBold.ttf') format("truetype");
+    font-display: swap;
+}

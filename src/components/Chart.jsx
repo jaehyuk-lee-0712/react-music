@@ -123,7 +123,7 @@ const Chart = ({ title, showCalendar, selectedDate, onDateChange, minDate, maxDa
             </section>
             {youtubeResults.length > 0 && (
                 <section className='youtube-result'>
-                    <h3>🧑🏻‍💻 👉 "{selectedTitle}"에 대한 유튜브 검색 결과입니다.</h3>
+                    <h3>"{selectedTitle}"에 대한 유튜브 검색 결과입니다.</h3>
                     <ul>
                         {youtubeResults.map((result, index) => (
                             <li key={index}>
