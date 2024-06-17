@@ -22,7 +22,7 @@ const Home = () => {
     playTrack(0);
 };
 
-  const likeData = data.slice(0 , 8)
+  const likeData = data.slice(0 , 6)
 
   useEffect(() => {
     
